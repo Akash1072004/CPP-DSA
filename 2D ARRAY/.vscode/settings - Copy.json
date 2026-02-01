@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "algorithm": "c",
+        "random": "c",
+        "fstream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "utility": "c",
+        "iostream": "cpp"
+    }
+}
