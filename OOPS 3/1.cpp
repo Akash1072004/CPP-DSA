@@ -11,7 +11,7 @@ class Bike{
         this->engineSize=engineSize;
     }
     ~Bike(){
-        cout<<"destrutor call hua!"<<endl;
+        cout<<"destrutor call hua!"<<endl; 
     }
 };
 int main(){
