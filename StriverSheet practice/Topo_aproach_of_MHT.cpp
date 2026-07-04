@@ -17,7 +17,7 @@ public:
             graph[v].push_back(u);
             indegree[u]++;
             indegree[v]++;
-        }
+        }  
 
         queue<int> qu;
         for(int i = 0; i < n; i++) {
