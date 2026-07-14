@@ -12,6 +12,8 @@ void fastIO() {
     cin.tie(NULL);
 }
 
+// Codeforces 2000 Rated
+
 ll dp[301][301][301];
 
 ll f(vector<vector<ll>>& v, int i, int j, int a, int n) {
